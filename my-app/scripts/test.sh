@@ -1,0 +1,1 @@
+node ./node_modules/react-scripts/bin/react-scripts.js test --detectOpenHandles --forceExit --verbose --watchAll=false
